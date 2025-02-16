@@ -18,6 +18,5 @@ Note that because this is a financial transaction dataset, there are some points
 
 Many sales occur with a nonsensically small dollar amount: $0 most commonly. These sales are actually transfers of deeds between parties: for example, parents transferring ownership to their home to a child after moving out for retirement.
 
-"C:\Users\User\OneDrive\Desktop\plot.png"
 
 **See the ipynb file for information**
